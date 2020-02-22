@@ -12,3 +12,8 @@ Visionneur::~Visionneur()
 {
     delete ui;
 }
+
+
+void Visionneur::AfficherCompteRendu(CompteRendu* compteRendu){
+
+}

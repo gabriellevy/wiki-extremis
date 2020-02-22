@@ -25,10 +25,50 @@ DEFINES += QT_DEPRECATED_WARNINGS
 CONFIG += c++11
 
 SOURCES += \
+        Bataille/bataille.cpp \
+        Bataille/etatguerrier.cpp \
+        Bataille/guerrier.cpp \
+        Coutume/commandement.cpp \
+        Coutume/faction.cpp \
+        Coutume/principe.cpp \
+        Coutume/ucoutume.cpp \
+        Factions/croisadefranque.cpp \
+        TLMContreTLM/action.cpp \
+        TLMContreTLM/affrontement.cpp \
+        TLMContreTLM/case.cpp \
+        TLMContreTLM/complement.cpp \
+        TLMContreTLM/compterendu.cpp \
+        TLMContreTLM/condition.cpp \
+        TLMContreTLM/etatunite.cpp \
+        TLMContreTLM/ordre.cpp \
+        TLMContreTLM/plateau.cpp \
+        TLMContreTLM/scene.cpp \
+        TLMContreTLM/unite.cpp \
+        TLMContreTLM/verbe.cpp \
         main.cpp \
         visionneur.cpp
 
 HEADERS += \
+        Bataille/bataille.h \
+        Bataille/etatguerrier.h \
+        Bataille/guerrier.h \
+        Coutume/commandement.h \
+        Coutume/faction.h \
+        Coutume/principe.h \
+        Coutume/ucoutume.h \
+        Factions/croisadefranque.h \
+        TLMContreTLM/action.h \
+        TLMContreTLM/affrontement.h \
+        TLMContreTLM/case.h \
+        TLMContreTLM/complement.h \
+        TLMContreTLM/compterendu.h \
+        TLMContreTLM/condition.h \
+        TLMContreTLM/etatunite.h \
+        TLMContreTLM/ordre.h \
+        TLMContreTLM/plateau.h \
+        TLMContreTLM/scene.h \
+        TLMContreTLM/unite.h \
+        TLMContreTLM/verbe.h \
         visionneur.h
 
 FORMS += \
@@ -38,3 +78,6 @@ FORMS += \
 qnx: target.path = /tmp/$${TARGET}/bin
 else: unix:!android: target.path = /opt/$${TARGET}/bin
 !isEmpty(target.path): INSTALLS += target
+
+RESOURCES += \
+    images.qrc
