@@ -9,5 +9,11 @@ std::shared_ptr<CompteRendu> Bataille::Executer()
 
     // exécution de la bataille...
 
+    // tmp :
+    cr->m_Scenes.push_back(make_shared<Scene>());
+    cr->m_Scenes.push_back(make_shared<Scene>());
+    cr->m_Scenes.push_back(make_shared<Scene>());
+    // end tmp
+
     return cr;
 }

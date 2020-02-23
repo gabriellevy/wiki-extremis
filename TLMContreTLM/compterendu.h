@@ -13,6 +13,8 @@ class CompteRendu
 public:
     CompteRendu();
 
+    void SauvegarderJson(QString nomFichier);
+
     QVector<std::shared_ptr<Scene>> m_Scenes = {};
 
 };

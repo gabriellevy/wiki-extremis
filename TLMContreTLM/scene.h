@@ -5,6 +5,7 @@
 #include "plateau.h"
 #include <QVector>
 #include "etatunite.h"
+#include <QJsonObject>
 
 /**
  * instantané d'un affrontement => état de tout au début du tour
@@ -13,6 +14,8 @@ class Scene
 {
 public:
     Scene();
+
+    void EcrireJson(QJsonObject &jsonObj);
 
     int m_NumTour = 0; // 0 = déploiement
 
