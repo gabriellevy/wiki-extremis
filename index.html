@@ -1,2 +1,73 @@
-<h1> titre </h1>
-youpi test
+<h1> wiki random </h1>
+lance une page de wiki au hsard
+
+<script>
+var links = [
+"Achéron",
+"Actions-de-jeu",
+"Armée",
+"Batailles-de-tournoi",
+"Calendrier",
+"Cathares",
+"Celtes",
+"Conquistadors",
+"Constitution-planétaire",
+"Consul",
+"Coterie-des-chats",
+"Coteries-Majeures",
+"Coteries",
+"Critères-de-représentation",
+"Cuadrilla",
+"Cycle-de-jeu",
+"Cycle-horaire",
+"Cycle-Journalier",
+"Elfes",
+"Esprit-de-la-nature",
+"Goulags",
+"Hidalgos",
+"Home",
+"Humanité",
+"L'académie-de-la-pureté-de-la-langue",
+"L'espèce-tyranide",
+"La-Bastille",
+"La-forêt-amazonienne",
+"La-grande-contamination",
+"La-Setch",
+"La-société-de-surveillance",
+"La-Technologie",
+"La-ville",
+"Les-hurleurs",
+"Les-hédonistes",
+"Les-Jacobins",
+"Les-libertins",
+"Les-Quartiers",
+"Liste-des-coteries",
+"Lycée",
+"Magie",
+"Mutants-skavens",
+"Notes-périmées",
+"Objets-alimentés-par-la-magie",
+"Orks",
+"Parlement",
+"Principes",
+"Programmation-de-bataillle",
+"Programmation",
+"Skavens",
+"Space-marines",
+"Squelette-de-description-de-faction",
+"Templiers",
+"Tour-de-la-convention",
+"Transhumanistes",
+"Tyranides",
+"Victoriens",
+"Zaporogues" ]
+
+function randInt(max) {
+    return Math.floor(Math.random()*(max+1));
+}
+
+var a= randInt(links.length);
+var i = a;
+location = "https://github.com/gabriellevy/wiki-extremis/wiki/" + links[i] ;
+window.open(location, '_blank');
+</script>
