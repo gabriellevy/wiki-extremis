@@ -1,0 +1,5 @@
+Les hurleurs sont des robots tueurs rustiques qui parcourent le monde en permanence pour trouver les condamnés à mort en fuite et les exécuter. Optimisés au maximum, ils sont équipés du minimum nécessaire pour tuer un homme c'est à dire une arme à feu montée et une arme blanche de secours. Tout le reste de leur matériel est aussi rustique afin qu'ils aient besoin du minimum d'entretien et ne laissent jamais de répit à leurs cibles. Certains volent, d'autres nagent, mais les plus craints sont les fouisseurs qui surgissent du sol pour vous sauter à la gorge en poussant un hurlement qui paralyse les humains alentour.
+
+Ils effectuent leurs réparations et le rechargement en énergie et munitions dans les mystérieuses usines souterraines du consul. C'est ici aussi qu'ils mettent à jour leurs bases de données de cibles à éliminer et les dernières informations connues à leur sujet. En particulier leur code génétique qui est le critère retenu pour autoriser l'élimination.
+
+![](https://www.denofgeek.com/wp-content/uploads/2008/01/15825.jpg?resize=640%2C432)

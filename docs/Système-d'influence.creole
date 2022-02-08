@@ -1,0 +1,18 @@
+
+
+Le système d'influence est matérialisé par une multitude de terrains de jeux représentant les différents quartiers de la ville. Sur chacun d'eux se trouve au moins plusieurs centaines de personnages ayant quelques caractéristiques de base : * sexe
+* age
+* classe sociale (travailleur, prêtre, guerrier, bourgeois)
+* et surtout groupe idéologique (potentiellement aucun)
+
+Les cartes sont en vue de dessus.
+
+Chaque tour dure une heure de temps réel durant lequel, de la même manière que pour les batailles, une seule action est exécutée pour chaque personnage en rpenant la prmeière valiede dans sa liste d'actions possibles. De base il les actions sont celle de l'IA du personnage de base et le joueur ne peut aps les modifier. Il peut par contre ajouter des commandements religieux qui s'ajoutent à ceux de base et sont prioritaires par défaut. 
+
+### Actions de base
+(selon les classes et ages...)
+
+### Déroulement typique
+
+### ???
+Qu'est-ce qui poussera les unités à se déplacer de temps en temps ? Des événements spéciaux périodiques ? Les commandements ?

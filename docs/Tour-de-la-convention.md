@@ -1,0 +1,7 @@
+La tour de la convention est un gratte ciel gigantesque de plus d'un kilomètre de haut relié à de nombreux complexes. Elle se trouve en plein cœur de la ville, c'est à dire au centre du monde. Elle a été bâtie par une alliance de toutes les factions ayant survécu à la dernière guerre mondiale dans le but de devenir le centre incontesté du gouvernement mondial ; où toutes les lois seraient votés avec l'appui de toutes les factions dans le but de mener le monde vers une paix --relative.
+
+En son cœur mais aussi dans tout le complexe via ses ramifications se trouve le [Consul](Consul). Le consul est une IA conçue elle aussi par l'alliance des factions dont le rôle unique est de veiller à la bonne application de la [constitution planétaire](constitution-planétaire). Tout manquement à cette constitution est puni par une armée de robots tueurs voir par l'anéantissement nucléaire si nécessaire. Elle contient aussi la prison politique de [La Bastille](La-Bastille).
+
+Sous bien des rapports ce système a été une grande réussite puisque depuis 150 ans qu'il est en place le monde n'a plus connu de guerre mondiale lui qui en subissait une tous les vingt ans en moyenne. Bien sûr pour en arriver là la constitution a du prendre en compte le fanatisme et la violence des habitants de ce monde et la canaliser via le système des [coteries](coteries) et des [tournois de bataille](tournois-de-bataille).
+
+La tour de la convention est entourée par six [quartiers administratifs](Les-Quartiers) chacun habité et dominé par une des six [Coteries Majeures](Coteries-Majeures).

@@ -1,0 +1,9 @@
+Le français est la seule et unique langue tolérée par la constitution et sa modification est uniquement autorisée sous le contrôle de l'académie de la langue. En fait elle est si dominante qu'on a banni le mot même de "français" et qu'on doit juste l'appeler "**la** langue".
+
+La raison est que vu la puissance qu'ont les représentations mentales sur la réalité il n'est pas exagéré de dire qu'à partir du moment où un mot différent est utilisé pour définir une même chose, cette chose peut se mettre à changer. Ce mécanisme incontrôlable a été à la base de tellement d'incompréhension et de conflit que l'unicité de la langue est le premier principe de la constitution et l'anéantissement des langues étrangères une priorité. Bien sûr cette politique n'est possible que dans les terres contrôlées par le consul mais des évangélisateurs font le tour du monde pour répandre le français, tandis que les conquistadors sont autorisés à utiliser la force contre les barbares récalcitrants.
+
+## Les gardiens de la pureté
+
+Ces gardiens sont des petits robots drones flottants en permanence pamri leur population. Leur seule et unique fonction est d'écouter les paroles échangées par les humains autour d'eux et de les analyser. Si des innovations de langage, ou pire, des dialectes non français, sont détectés, ils sont immédiatement signalés au consul qui prenda les mesures appropriées. La sanction pouvant aller du simple blâme à la déportation en camps de rééducation linguistique.
+
+Ces robots sont naturellement conçus pour être incapables d'apprendre au contact des humains. Ils ne reçoivent de nouveaux mots que de l'académie elle-même.
