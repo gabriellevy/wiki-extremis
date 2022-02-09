@@ -1,6 +1,0 @@
- - un tournoi de combat entre toutes les factions dominantes qui détermine la maison maîtresse et la faction la plus faible
- - un tournoi entre toutes les factions secondaires qui détermine la plus puissante
- - un combat final entre la faction dominante la plus faible et la secondaire la plus forte. Si la maison secondaire gagne elle prend la place (et le quartier) de la faction dominante.
- - Un nouveau [vote de loi](Vote-de-loi) est déclenché par la faction dont c'est le tour si elle le souhaite. (peut-être à caser dans le [Cycle hebdomadaire](Cycle-Hebdomadaire) )
- - le vote de loi qui arrive à terme aujourd'hui (après 6 jours de vote à priori) est révélé et si la loi est adoptée elle est appliquée au monde.
- - on applique l'effet des capacités de faction journalières.

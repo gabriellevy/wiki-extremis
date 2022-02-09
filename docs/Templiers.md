@@ -1,9 +1,12 @@
-### Fondateur
+![](https://qph.fs.quoracdn.net/main-qimg-7955996a2ba6b9e25d50fbc5b2065bf6)
 
-La fondation de l'Ordre du Temple est si ancienne qu'elle se perd dans les tréfonds du temps. À en croire les templiers eux-mêmes ils existaient déjà en tant que guerriers saints aux temps bibliques et combattirent au côté du Roi David. Mais c'est pendant la lointaine ère chrétienne qu'ils devinrent ce qu'ils sont encore aujourd'hui : la fusion du chrétien ascétique et du fidèle et féroce guerrier Franc.
+### Fondation
+
+La fondation de l'Ordre du Temple est si ancienne qu'elle se perd dans les tréfonds du temps. À en croire les templiers eux-mêmes ils existaient déjà en tant que guerriers saints aux temps bibliques et combattirent au côté du Roi David. Mais c'est pendant la lointaine ère chrétienne qu'ils devinrent ce qu'ils sont encore aujourd'hui : la fusion du chrétien ascétique et de l'honorable et féroce guerrier Franc.
 
 Sans pouvoir dater cette fondation qui dota le temple de sa [règle](Regle-du-Temple) sacrée les templiers reconnaissent essentiellement deux fondateurs : 
- - Hugues II de Payns, chevalier de Champagne qui créa la première commanderie et combattit comme croisé aux temps anciens
+ - Hugues II de Payns, chevalier de Champagne qui créa la première commanderie et combattit durant la légendaire première croisade
+![](https://qph.fs.quoracdn.net/main-qimg-c6b1e9a7cb1f9ed041ba07585c8e2c5b)
  - et le roi Louis IX qui est le fondateur spirituel des templiers. Même si il n'a jamais été officiellement templier, c'est lui qui le premier a su unir l'aristocratie guerrière franque avec l'église chrétienne ; puis qui a officialisé l'ordre avec le pape Innocent. Il a été canonisé par l'église et est vénéré comme saint par tous les templiers francs.
 
 Comme tous les héros du Temple ils se joignent parfois comme saint vivant aux batailles ou aux cérémonies.
@@ -12,9 +15,9 @@ Comme tous les héros du Temple ils se joignent parfois comme saint vivant aux b
 
 Basée sur la foi inébranlable en Dieu et sur l'honneur guerrier de l'aristocratie franque. Les templiers sont avant tout des guerriers saints avec un code de l'honneur très strict. Ce code de l'honneur méprise la cupidité et l'ostentation au point qu'on ne peut rejoindre l'Ordre qu'en renonçant à toutes les possessions. L'Ordre lui-même est relativement riche mais toute possession personnelle est extrêmement limitée et les fonds sont toujours mis en commun. Les fonds sont en priorité utilisés pour financer les nombreux hôpitaux de l'ordre. Les templiers sont aussi mercenaires tant que la cause est jugée honorable par l'ordre. Leurs cibles favorites sont les magiciens maléfiques et les hérétiques mais ils ne répugnent pas à faire des travaux bien moins valorisants.
 
-En plus de ce renoncement à l'enrichissement personnel les templiers doivent faire vœu de chasteté, qu'ils soient prêtres, ouvriers ou guerriers ne fait pas de différence. 
+En plus de ce voeu de pauvreté les templiers doivent faire vœu de chasteté. Qu'ils soient prêtres, ouvriers ou guerriers ne fait pas de différence.  Enfin le dernier voeu capital est celui d'obéissance. L'ordre a une hierarchie très stricte et chaque officier à un énorme pouvoir sur ses subalternes qui doivent lui obéir en tout point.
 
-Ces deux règles à elles seules limitent drastiquement les postulants mais leur garantissent des néophytes dévots et motivés. Les templiers sont donc nettement moins nombreux que la moyenne des autres coteries mais ils est très rare qu'ils renoncent à leurs vœux et sont très fiers de leur statut.
+Ces règles à elles seules limitent drastiquement les postulants mais leur garantissent des néophytes dévots et motivés. Les templiers sont donc nettement moins nombreux que la moyenne des autres coteries mais ils est très rare qu'ils renoncent à leurs vœux et sont très fiers de leur statut.
 
 #### La Foi avant tout
 
@@ -38,7 +41,7 @@ La foi ne peut être utilisée que pour rendre le monde meilleur et espérer en 
 
 Les templiers sont très peu intéressés par la technologie et la recherche scientifique. Ils ne la méprisent pas pour autant mais ils préfèrent laisser l'expérimentation aux autres coteries et se contenter d'utiliser des techniques anciennes et robustes qui ont déjà fait leurs preuves sur une longue durée. Ils sont donc tout à fait capable de faire fonctionner efficacement leur quartier mais comparé à d'autres il semble très primitif. Leur architecture en particulier est souvent en pierre taillée et si le métal est toléré, le plastique et le verre sont mal vus. De toute façon le besoin de confort est un signe de faiblesse banni par l'ordre.
 
-Si ils sont novice en technique moderne, ils sont par contre experts dans tout ce qui est ancien et prennent en conséquence le plus grand soin de leurs connaissances et de celles de leurs ancêtres. Ils ont ainsi des bibliothèques considérables dont la légendaire bibliothèque du Louvre qui n'est accessible qu'aux templiers les plus méritants.
+Si ils sont novices en technique moderne, ils sont par contre experts dans tout ce qui est ancien et prennent en conséquence le plus grand soin de leurs connaissances et de celles de leurs ancêtres. Ils ont ainsi des bibliothèques considérables dont la légendaire bibliothèque du Louvre qui n'est accessible qu'aux templiers les plus méritants.
 
 ![](https://66.media.tumblr.com/tumblr_mb7r874Fz31qfzxa7o1_640.jpg)
 
@@ -46,8 +49,9 @@ Toute cette attitude ressort très largement de l'attirance des templiers pour t
 
 #### La voie
 
-De cette vision d'absolu et de dévotion découle un des rites les plus importants des templiers qu'ils appellent la voie. Il s'agit de se concentrer sur une tâche et d'en acquérir la maîtrise absolue. Cette décision est lourde de conséquence car elle implique de rejoindre une guilde, un groupe tout entier dédié à cette voie particulière qui conservera trace de l'engagement du templier jusqu'à sa mort. Ainsi il est interdit de choisir sa voie avant l'âge de vingt cinq ans et fortement conseillé d'expérimenter plusieurs types de voies pour être sûr de choisir la bonne car en cas d'échec les conséquences sont funestes. Les autres membres de la guilde que le templier abandonne le mépriseront comme un traître et plus personne ne lui fera confiance comme à un templier digne de ce nom.
+De cette vision d'absolu et de dévotion découle un des rites les plus importants des templiers qu'ils appellent la voie. Il s'agit de se concentrer sur une tâche et d'en acquérir la maîtrise absolue. Cette décision est lourde de conséquence car elle implique de rejoindre une guilde, un groupe tout entier dédié à cette voie particulière qui conservera trace de l'engagement du templier jusqu'à sa mort. Ainsi il est interdit de choisir sa voie avant l'âge de vingt cinq ans et fortement conseillé d'expérimenter plusieurs voies pour être sûr de choisir la bonne car en cas d'échec les conséquences sont funestes. Les autres membres de la guilde que le templier abandonne le mépriseront comme un traître et plus personne ne lui fera confiance comme à un templier digne de ce nom.
 
+Exemples de voies : 
  * voie de l'inquisiteur : ce templier combattra le mal et l'hérésie dans le temple comme à l'extérieur
  * voix du culte : son plus cher désir sera de devenir prêtre
  * voix des compagnons du devoir : spécialisé dans l'architecture traditionnelle de haute qualité

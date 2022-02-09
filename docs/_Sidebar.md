@@ -1,0 +1,1 @@
+[Page aléatoire](https://gabriellevy.github.io/wiki-extremis/)

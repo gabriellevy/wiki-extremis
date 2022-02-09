@@ -1,5 +1,0 @@
-Il s'agit d'un jeu persistant. Il continue à s'exécuter (en théorie sur des serveurs donc) qu'on soit en train d'y jouer ou non et se cale sur le temps réel ainsi : 
- * 1 heure réelle = 1 jour de jeu c'est à dire une exécution de l'IA des personnages => c'est le [Cycle horaire](Cycle-horaire)
- * 1 jour réel = 1 mois de jeu c'est à dire l'organisation d'un tournoi de batailles => c'est le [Cycle Journalier](Cycle-Journalier)
- * 1 semaine réelle = 1 an de jeu c'est à dire l'organisation d'élections mondiales pour déterminer les changements de loi => c'est le [Cycle hebdomadaire](Cycle-hebdomadaire)
-Tout cela est du schématique mais on peut tout à fait déclarer dans le jeu que les mois durent 24 jours et les années 7 mois ou bricoler une autre concordance. L'idée est quand même que tournois et votes aient des échéances fixes.
